@@ -1,0 +1,20 @@
+{
+  "name": "stackblitz-starters-6if6hr",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "sass": "^1.64.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "watch": "sass --watch /src/style.scss /src/style.css"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
